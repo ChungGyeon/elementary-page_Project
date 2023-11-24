@@ -185,8 +185,11 @@
       <span class="visually-hidden">Next</span>
     </button>
   </div>
-
+ 
+  <div class="d-grid gap-2 col-6 mx-auto"><button type="button" class="btn btn-primary" onClick="location.href='findprofile.jsp'">사람을 찾으러 떠나볼까요?</button></div>
+ <hr class="featurette-divider">
 <!-- Three columns of text below the carousel -->
+<div class="row featurette">
 <div class="container">
     <div class="row">
       <div class="col-lg-3">
@@ -219,7 +222,7 @@
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Profil4">여기가 모달</button>
       </div><!-- /.col-lg-3 -->
     </div><!-- /.row -->
-
+</div>
 
     <!-- START THE FEATURETTES -->
 
