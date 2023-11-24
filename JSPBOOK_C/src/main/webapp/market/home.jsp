@@ -234,7 +234,9 @@
         <p class="lead">여기에 있는 모든 분은 만남을 추구하기 위해 모여있습니다. 당신을 기다리고 있어요!</p>
       </div>
       <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-bg)"><img src="mailpageimage1.png" width="500" height="500"/>
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/>
+        <image href="mailpageimage1.png" width="100%" height="100%" preserveAspectRatio="xMidYMax slice"/>
+        </svg>
       </div>
     </div>
 
