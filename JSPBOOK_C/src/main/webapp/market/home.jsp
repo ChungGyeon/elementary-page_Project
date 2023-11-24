@@ -236,7 +236,7 @@
     </div>
 
     <hr class="featurette-divider">
-   <p> 여기에 어떤 내용 넣을지 생각해보
+   <p> 여기에 어떤 내용 넣을지 생각해보자 테스트를 위한 커
     
     <hr class="featurette-divider">
 
