@@ -58,7 +58,7 @@ Temporary Items
 .apdisk
 
 ### macOS Patch ###
-# iCloud generated files
+# iCloud generated file
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,java
