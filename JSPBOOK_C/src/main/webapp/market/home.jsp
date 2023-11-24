@@ -145,6 +145,7 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <!-- 만약 사진클릭시 안넘어간다면 이 주소가 문제일거야                     -->
         <a href="http://localhost:8080/JSPBOOK_C/market/datelocation.jsp"><image width="100%" height="150%" href="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201510/08/htm_20151008184425393181.jpg" preserveAspectRatio="xMidYMax slice"/>
         </a></svg>
         <div class="container">
@@ -235,7 +236,7 @@
     </div>
 
     <hr class="featurette-divider">
-   <p> 여기에 어떤 내용 넣을지 생각해보
+   <p> 여기에 어떤 내용 넣을지 생각해보자 테스트를 위한 커
     
     <hr class="featurette-divider">
 
