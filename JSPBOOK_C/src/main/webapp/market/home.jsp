@@ -145,13 +145,13 @@
       <div class="carousel-item active">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <!-- 만약 사진클릭시 안넘어간다면 이 주소가 문제일거야                     -->
-        <a href="http://localhost:8080/JSPBOOK_C/market/datelocation.jsp"><image width="100%" height="150%" href="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201510/08/htm_20151008184425393181.jpg" preserveAspectRatio="xMidYMax slice"/>
+        <a href="http://localhost:8080/JSPBOOK_C/market/datelocation.jsp"><image width="100%" height="100%" href="mainad1.png" preserveAspectRatio="xMidYMax slice"/>
         </a></svg>
         <div class="container">
           <div class="carousel-caption text-start">
             <img style="width: 550px; loading:lazy;" alt=""  src="">
 
-            <p class="opacity-75">설명111</p>
+            <p class="opacity-75">여의도 더 현대 서울에서 느낄 수 있는 크리스마스 분위기</p>
           </div>
         </div>
       </div>
