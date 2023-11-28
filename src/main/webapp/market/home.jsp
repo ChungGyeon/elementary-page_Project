@@ -16,7 +16,7 @@
       <!-- 텟스트커밋   -->
 
     <title>소개팅페이지</title>
-   <!-- 테스트를위한 거시기테스 -->
+   <!-- 찐 테스트 커 -->
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
