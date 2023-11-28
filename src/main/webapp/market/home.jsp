@@ -13,7 +13,7 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.115.4">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-      <!-- 텟스트커밋 -->
+      <!-- 텟스트커밋   -->
 
     <title>소개팅페이지</title>
    
