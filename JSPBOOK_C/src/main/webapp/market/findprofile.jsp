@@ -2,15 +2,17 @@
     pageEncoding="utf-8"%>
     
 <!DOCTYPE html>
+
 <html>
   <head>
   <meta charset="utf-8" />
   <title>상대방찾기</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-   <link href="carousel.css" rel="stylesheet">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.115.4">
+  <link href="carousel.css" rel="stylesheet">
   <!-- Link Swiper's CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-
   <!-- Demo styles -->
   <style>
     html,
@@ -48,6 +50,7 @@
       height: 100%;
       object-fit: cover;
     }
+    
     .container
     {
     position: relative;
@@ -55,15 +58,17 @@
     }
     
   </style>
+  <!-- 사진규격은 container로 하도록합니다  -->
   <%@ include file="menu.jsp" %>
 </head>
 
 <body>
+
   <!-- Swiper -->
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide"><div class="container"><a href="swipetest.jsp"><img src="LJH.jpg"/></a></div></div>
-      <div class="swiper-slide">Slide 2</div>
+      <div class="swiper-slide">슬라이드 2</div>
       <div class="swiper-slide">Slide 3</div>
       <div class="swiper-slide">Slide 4</div>
       <div class="swiper-slide">Slide 5</div>
@@ -91,5 +96,23 @@
         },
       });
   </script>
+  
+  <div class="modal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
 </body>
 </html>

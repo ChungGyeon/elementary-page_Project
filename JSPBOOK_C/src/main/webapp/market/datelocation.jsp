@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.115.4">
-    <title>설명1 페이지 예</title>
+    <title>TODAY MAGAZINE</title>
    
     <style>
       .bd-placeholder-img {
@@ -135,9 +135,20 @@
 
 
 
-<<img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D" class="img-fluid" alt="test1">
 <div class="container text-center">
  <h1> 이렇게 제목을 박아넣고!</h1>
+ <p>크리스마스 데이트 코스 추천<br>
+ 
+현재 대한민국에서 가장 핫한 장소를 꼽으라면 더 현대 서울을 빼놓을 수 없을 것입니다. 올해에도 역시 더 현대 서울에서 크리스마스를 더욱 즐겁게 보낼 수 있도록 이벤트를 준비하였는데요, 바로 ‘해리의 꿈의 상점’입니다! 수많은 트리와 조명들이 수 놓은 거리에서 올 겨울 연인과 함께 추억을 만들어 보는건 어떠실까요?
+ 
+이용시간: 월-목:10:00~20:00 / 금-일:10:00~20:30
+오시는길: 5호선 여의나루역 이용
+ 
+#크리스마스 #더현대서울 #서울데이트장소
+<img src="magazine1.png"/>
+<img src="magazine2.png"/>
+<img src="magazine3.png"/>
+ <p>
 </div>
 
 </main>

@@ -134,7 +134,6 @@
     </div>
 
     
-
 <main>
   <div id="myCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
     <div class="carousel-indicators">
@@ -146,13 +145,13 @@
       <div class="carousel-item active">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <!-- 만약 사진클릭시 안넘어간다면 이 주소가 문제일거야                     -->
-        <a href="http://localhost:8080/JSPBOOK_C/market/datelocation.jsp"><image width="100%" height="150%" href="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201510/08/htm_20151008184425393181.jpg" preserveAspectRatio="xMidYMax slice"/>
+        <a href="http://localhost:8080/JSPBOOK_C/market/datelocation.jsp"><image width="100%" height="100%" href="mainad1.png" preserveAspectRatio="xMidYMax slice"/>
         </a></svg>
         <div class="container">
           <div class="carousel-caption text-start">
             <img style="width: 550px; loading:lazy;" alt=""  src="">
 
-            <p class="opacity-75">설명111</p>
+            <p class="opacity-75">여의도 더 현대 서울에서 느낄 수 있는 크리스마스 분위기</p>
           </div>
         </div>
       </div>
@@ -187,9 +186,9 @@
   </div>
  
   <div class="d-grid gap-2 col-6 mx-auto"><button type="button" class="btn btn-primary" onClick="location.href='findprofile.jsp'">사람을 찾으러 떠나볼까요?</button></div>
- <hr class="featurette-divider">
 <!-- Three columns of text below the carousel -->
-<div class="row featurette">
+ <hr class="featurette-divider">
+
 <div class="container">
     <div class="row">
       <div class="col-lg-3">
@@ -222,7 +221,7 @@
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Profil4">여기가 모달</button>
       </div><!-- /.col-lg-3 -->
     </div><!-- /.row -->
-</div>
+<!--  </div>-->
 
     <!-- START THE FEATURETTES -->
 
@@ -354,8 +353,6 @@
 
        <h4>비공개, 피지컬 만렙<br></h4>
        </div>
-       
-       
      
       </div>
       <div class="modal-footer">
@@ -374,7 +371,6 @@
   <!-- /.container -->
 </div>
 </main>
-	
 	<%@ include file="footer.jsp" %>
 
 </body>
